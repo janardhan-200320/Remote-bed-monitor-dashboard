@@ -96,12 +96,3 @@ Message pattern:
         }
     ```
 
-## Authors
-
-[![DamascenoRafael](images/DamascenoRafael.png)](https://github.com/DamascenoRafael)
- [![Maasouza](images/Maasouza.png)](https://github.com/Maasouza)
-
-## License
-
-Usage is provided under the GNU General Public License v3.0.  
-See [LICENSE](LICENSE) for details.
